@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>ExampleSite</title>
+    <link>https://Kapi2910.github.io/</link>
+    <description>Recent content on ExampleSite</description>
+    <image>
+      <url>https://Kapi2910.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>https://Kapi2910.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator><atom:link href="https://Kapi2910.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://Kapi2910.github.io/about/</link>
+      <pubDate>Sat, 25 Jun 2022 18:01:18 -0500</pubDate>
+      
+      <guid>https://Kapi2910.github.io/about/</guid>
+      <description>I am a Aaditya Prakash </description>
+    </item>
+    
+  </channel>
+</rss>
