@@ -2190,6 +2190,7 @@ input, select, textarea {
 		.image.avatar {
 			border-radius: 100%;
 			overflow: hidden;
+			width: 65%;
 		}
 
 			.image.avatar img {
@@ -2844,6 +2845,7 @@ input, select, textarea {
 		color: #c0c0c0;
 		overflow: hidden;
 		padding: 4em 0 2em 0;
+		display: none;
 	}
 
 		#footer .copyright {
