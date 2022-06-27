@@ -3,6 +3,7 @@ This website is an extenstion of my CV
 
 
 Credits:
+
 	Template:
 		Read Only by HTML5 UP
 		html5up.net | @ajlkn
