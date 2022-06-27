@@ -2,3 +2,4 @@
 (B) 2. Get the images up for the pages
 (A) 3. Add the publication of current project
 (A) 4. Change the title on every page
+(B) 5. Add Socials link
