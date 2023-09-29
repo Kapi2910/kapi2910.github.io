@@ -4,13 +4,15 @@
 title: Aaditya Prakash Kattekola
 layout: homepage
 ---
-## About Me
+# Namaste
 
-I am a PhD student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering 
+I am a Ph.D student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering 
 
 If you wish to chat with me, just drop me a mail.
 
-## Research Interests
+## Research
+
+### Area of Interests
 
  I wish to use RF technology to establish strong and robust communication frameworks between robots.
 
@@ -18,17 +20,17 @@ If you wish to chat with me, just drop me a mail.
 
 {% include_relative _includes/publications.md %}
 
-### Research Endeavours
+### Previous Work
 
-* I got connected with [Dr. Kamesh Namuduri](https://facultyinfo.unt.edu/faculty-profile?profile=kn0100) when I visited University of North Texas, Denton. I am presently collaborating with him on an traffic management system for an autonomous drone network.
+* I am currently working in developing an air traffic management system for an autonomous UAV network, in collaboration with [Dr. Kamesh Namuduri](https://facultyinfo.unt.edu/faculty-profile?profile=kn0100), University of North Texas (UNT), Denton 
 
-* As part of my final year project, I analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
+* In my B.Tech final year project, I analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
 
-* In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. A paper titled, _Localization Methods for FWMAVs for Smart Pollination_ got _accepted as a WIP poster_ in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
+* In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. My teams' work, _Localization Methods for FWMAVs for Smart Pollination_ got _accepted as a WIP poster_  in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
 
-* I began my research journey began under [Dr. Suman Niranjan](https://facultyinfo.unt.edu/faculty-profile?profile=sn0301) in the field of Operations Research. In this project, I was responsible for the simulation and network optimization of the COVID19 Cold Chain in the state of Madhya Pradesh.
+* I under [Dr. Suman Niranjan](https://logisticsresearch.unt.edu/content/niranjan-suman) in the Jimm McNatt Institute of Logistics Research, UNT, Denton. In this project, I was responsible for the simulation and network optimization of the COVID-19 Cold Chain in the state of Madhya Pradesh.
 
-### Hobbies
+## Hobbies
 
 In my free time, I play chess. I am always open to a good match on [Lichess](https://lichess.org/@/AadityaP)
 <!--
