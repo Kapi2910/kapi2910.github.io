@@ -4,7 +4,7 @@
 title: Aaditya Prakash Kattekola
 layout: homepage
 ---
-## Namaste
+## Namaste 🙏🏽
 
 I am a Ph.D student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering 
 
