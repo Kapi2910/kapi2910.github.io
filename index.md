@@ -2,7 +2,7 @@
 # Feel free to add content and custom Front Matter to this file.
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Aaditya Prakash Kattekola
-layout: default
+layout: homepage
 ---
 I am Aaditya Prakash Kattekola, currently a final year undergrade student in the Department of Electronics & Communication Engineering at the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in). 
 
