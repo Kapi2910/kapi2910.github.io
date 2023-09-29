@@ -14,11 +14,15 @@ If you wish to chat with me, just drop me a mail.
 
  I wish to use RF technology to establish strong and robust communication frameworks between robots.
 
+### Publications
+
+{% include_relative _includes/publications.md %}
+
 ### Research Endeavours
 
 * I got connected with [Dr. Kamesh Namuduri](https://facultyinfo.unt.edu/faculty-profile?profile=kn0100) when I visited University of North Texas, Denton. I am presently collaborating with him on an traffic management system for an autonomous drone network.
 
-* As part of my final year project, I am analysing the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
+* As part of my final year project, I analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
 
 * In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. A paper titled, _Localization Methods for FWMAVs for Smart Pollination_ got _accepted as a WIP poster_ in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
 
