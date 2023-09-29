@@ -64,12 +64,6 @@ font: "Serif" # or "Sans Serif"
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
 
-github:
-  {
-    is_user_page: true,
-    is_project_page: false,
-    owner_url: https://github.com/Kapi2910,
-  }
 
 # Build settings
 remote_theme: yaoyao-liu/minimal-light
