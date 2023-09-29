@@ -16,8 +16,6 @@ If you wish to chat with me, just drop me a mail.
 
  I wish to use RF technology to establish strong and robust communication frameworks between robots.
 
-### Publications
-
 {% include_relative _includes/publications.md %}
 
 ### Previous Work
