@@ -4,7 +4,7 @@
 title: Aaditya Prakash Kattekola
 layout: homepage
 ---
-# Namaste
+## Namaste
 
 I am a Ph.D student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering 
 
@@ -30,9 +30,12 @@ If you wish to chat with me, just drop me a mail.
 
 * I under [Dr. Suman Niranjan](https://logisticsresearch.unt.edu/content/niranjan-suman) in the Jimm McNatt Institute of Logistics Research, UNT, Denton. In this project, I was responsible for the simulation and network optimization of the COVID-19 Cold Chain in the state of Madhya Pradesh.
 
-## Hobbies
+## About Me
 
-In my free time, I play chess. I am always open to a good match on [Lichess](https://lichess.org/@/AadityaP)
+- I have a deep regard for mathematics and it is my pass time activity to learn and solve problems in math.
+- I also have an acute sense of taste and smell owing to my interest in cooking.
+- In my free time, I play chess. I am always open to a good match on [Lichess](https://lichess.org/@/AadityaP)
+
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
 -->
