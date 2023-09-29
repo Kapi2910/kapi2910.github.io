@@ -4,9 +4,15 @@
 title: Aaditya Prakash Kattekola
 layout: homepage
 ---
-I am a PhD student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering with Prof Matthew J. Clarkson at WEISS (Wellcome / EPSRC Centre for Interventional and Surgical Sciences), University College London (UCL), UK. Before that, I worked with Prof Adrien Bartoli at EnCoV, Université Clermont Auvergne, France. I obtained a PhD in Computer Science supervised by Prof Niloy J. Mitra at Smart Geometry Processing Group, UCL.
+## About Me
 
- I am interested in **Wireless Communication and Robotics.** If you wish to chat with me, just drop me a mail.
+I am a PhD student, at University of California, Santa Barbara, USA. Previously, I obtained my Bachelors from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering 
+
+If you wish to chat with me, just drop me a mail.
+
+## Research Interests
+
+ I wish to use RF technology to establish strong and robust communication frameworks between robots.
 
 ### Research Endeavours
 
