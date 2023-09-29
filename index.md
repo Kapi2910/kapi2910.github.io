@@ -20,7 +20,7 @@ If you wish to chat with me, just drop me a mail.
 
 * In my B.Tech final year project, I analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
 
-* In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. My teams' work, _Localization Methods for FWMAVs for Smart Pollination_ got _accepted as a WIP poster_  in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
+* In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. My teams' work, _Localization Methods for FWMAVs for Smart Pollination_ got accepted as a WIP poster in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
 
 * I under [Dr. Suman Niranjan](https://logisticsresearch.unt.edu/content/niranjan-suman) in the Jimm McNatt Institute of Logistics Research, UNT, Denton. In this project, I was responsible for the simulation and network optimization of the COVID-19 Cold Chain in the state of Madhya Pradesh.
 

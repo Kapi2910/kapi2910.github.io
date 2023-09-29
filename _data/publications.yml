@@ -1,9 +1,10 @@
 main:
   - title: Performance Analysis of RIS-Aided NOMA Networks in α−μ & κ−μ Generalized Fading Channel
     authors: <strong>Aaditya Prakash Kattekola</strong>, Sanjana Dontha, Anuradha Sundru
-    #conference_short: ICETE
+    conference_short: ICETE
     conference: International Conference on Emerging Trends in Engineering <strong>(ICETE)</strong>, 2023.
     pdf: https://arxiv.org/pdf/2305.07265.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     #bibtex: https://bib.yliu.me/MICCAI23.txt
+    image: ./assets/img/publication/RIS.png
     notes: Oral Presentation
