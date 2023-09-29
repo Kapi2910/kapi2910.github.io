@@ -6,7 +6,7 @@ layout: homepage
 ---
 ## Namaste 🙏🏽
 
-I am a Ph.D student, at University of California, Santa Barbara, USA. I am interested in creating robust communication frameworks for robots as well as utilising robots in enhancing communication networks. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
+I am a Ph.D student in the ECE Department at University of California, Santa Barbara, USA. I am interested in creating robust communication frameworks for robots as well as utilising robots in enhancing communication networks. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
 
 If you wish to chat with me, just drop me a mail.
 
