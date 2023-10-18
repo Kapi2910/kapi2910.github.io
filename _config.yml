@@ -10,7 +10,7 @@
 
 # Site settings
 
-# Basic Information 
+# Basic Information
 title: Aaditya Prakash Kattekola
 position: Ph.D Student
 affiliation: University of California, Santa Barbara
@@ -23,7 +23,7 @@ email: aadityaprakash (at) ucsb.edu
 # description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
 # canonical: https://minimal-light-theme.yliu.me/
 
-# Links 
+# Links
 # If you don't need one of them, you may delete the corresponding line.
 google_scholar: https://scholar.google.com/citations?user=dUyBIokAAAAJ&hl=en
 cv_link: assets/files/curriculum_vitae.pdf
@@ -31,8 +31,8 @@ github_link: https://github.com/Kapi2910
 linkedin: https://www.linkedin.com/in/kapi2910/
 twitter: https://twitter.com/Kapi2910
 
-# Images (e.g., your profile picture and your website's favicon) 
-# "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
+# Images (e.g., your profile picture and your website's favicon)
+# "favicon" and "favicon_dark" are used for the light and dark modes, respectively.
 avatar: ./assets/img/avatar.jpg
 favicon: ./assets/img/favicon_io/favicon.ico
 favicon_dark: ./assets/img/favicon_io/favicon.ico
@@ -43,7 +43,7 @@ enable_footnote: true
 
 # Auto Dark Mode
 # You may use the option to disable the automatic dark theme
-auto_dark_mode: true
+auto_dark_mode: false
 
 # Font
 # You can use this option to choose between Serif or Sans Serif fonts.
@@ -52,7 +52,6 @@ font: "Serif" # or "Sans Serif"
 # Google Analytics ID
 # Please remove this if you don't use Google Analytics
 # google_analytics: UA-111540567-4
-
 
 # Build settings
 remote_theme: yaoyao-liu/minimal-light
