@@ -6,7 +6,7 @@ layout: homepage
 ---
 ## Namaste 🙏🏽
 
-I am a Ph.D student in the ECE Department at University of California, Santa Barbara, USA. I am interested in creating robust communication frameworks for robots as well as utilising robots in enhancing communication networks. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
+I am a Ph.D student in the ECE Department at [University of California, Santa Barbara](https://ece.ucsb.edu). I am interested in creating robust communication frameworks for robots as well as utilising robots in enhancing communication networks. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
 
 If you wish to chat with me, just drop me a mail.
 
@@ -16,11 +16,11 @@ If you wish to chat with me, just drop me a mail.
 
 ### Previous Work
 
-* I am currently working in developing an air traffic management system for an autonomous UAV network, in collaboration with [Dr. Kamesh Namuduri](https://facultyinfo.unt.edu/faculty-profile?profile=kn0100), University of North Texas (UNT), Denton 
+* Developed an air traffic management system for an autonomous UAV network, in collaboration with [Dr. Kamesh Namuduri](https://facultyinfo.unt.edu/faculty-profile?profile=kn0100), University of North Texas (UNT), Denton
 
-* In my B.Tech final year project, I analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306).
+* Analysed the performance of NOMA networks when aided by Intelligent Reflective Surfaces and UAVs. This project was part of my is guided by [Dr. S. Anuradha](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16306). It was my B.Tech final year project,
 
-* In my home institute, I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. My teams' work, _Localization Methods for FWMAVs for Smart Pollination_ got accepted as a WIP poster in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
+* I worked under [Dr. Sreehari Rao Patri](https://wsdc.nitw.ac.in/facultynew/facultyprofile/id/16301) on Flapping-Wing Micro Aerial Vehicles. My teams' work, _Localization Methods for FWMAVs for Smart Pollination_ got accepted as a WIP poster in the IEEE International Symposium on Smart Electronic Systems (iSES), Dec 2022, Warangal, India.
 
 * I worked under [Dr. Suman Niranjan](https://logisticsresearch.unt.edu/content/niranjan-suman) in the Jimm McNatt Institute of Logistics Research, UNT, Denton. In this project, I was responsible for the simulation and network optimization of the COVID-19 Cold Chain in the state of Madhya Pradesh.
 
