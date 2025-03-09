@@ -1,9 +1,15 @@
 main:
   - title: Nocturnal Serizure Detection
+    authors: <strong>Aaditya Prakash Kattekola</strong>
+    others: This is the description of the project
 
   - title: Video to RF
+    authors: <strong>Aaditya Prakash Kattekola</strong>
+    others: This is the description of the project
 
   - title: Velocity estimation with Spectrogram
+    authors: <strong>Aaditya Prakash Kattekola</strong>
+    others: This is the description of the project
     
 
   # - title: Performance Analysis of RIS-Aided NOMA Networks in α−μ & κ−μ Generalized Fading Channel
