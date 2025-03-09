@@ -1,6 +1,25 @@
 main:
+  - title: Crowd Size Estimation for Non-Uniform Spatial Distributions with mmWave Radar
+    authors: Anurag Pallaprolu, <strong>Aaditya Prakash Kattekola</strong>, Winston Hurst, Upamanyu Madhow, Ashutosh Sabharwal and Yasamin Mostof
+    conference_short: ArXiv
+    conference: IEEE International Conference on Communications (ICC)
+    pdf: https://arxiv.org/pdf/2410.09200
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    image: ./assets/img/publication/Crowd.png
+    notes: Submitted
+
+  - title: A Traffic Control Framework for Uncrewed Aircraft Systems
+    authors: Ananay Vikram Gupta, <strong>Aaditya Prakash Kattekola</strong>, Ansh Vikram Gupta, Dacharla Venkata Abhiram, Kamesh Namuduri, Ravichandran Subramanian
+    conference_short: ICC
+    conference:  IEEE International Conference on Communications (ICC)
+    pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622398
+    #code: https://github.com/MrGiovanni/ContinualLearning
+    bibtex: https://ieeexplore.ieee.org/abstract/document/10622398
+    image: ./assets/img/publication/UTM.png
+    notes: Oral Presentation 
+
   - title: Performance Analysis of RIS-Aided NOMA Networks in α−μ & κ−μ Generalized Fading Channel
-    authors: <strong>Aaditya Prakash Kattekola</strong>, Sanjana Dontha, Anuradha Sundru
+    authors: <strong>Aaditya Prakash Kattekola</strong>; Sanjana Dontha; Anuradha Sundru
     conference_short: ICETE
     conference: Proceedings of the Second International Conference on Emerging Trends in Engineering (ICETE 2023).
     pdf: https://arxiv.org/pdf/2305.07265.pdf

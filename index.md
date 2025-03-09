@@ -6,7 +6,8 @@ layout: homepage
 ---
 ## Namaste 🙏🏽
 
-I am a Ph.D student in the ECE Department at [University of California, Santa Barbara](https://ece.ucsb.edu). I am interested in creating robust communication frameworks for robots as well as utilising robots in enhancing communication networks. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
+I am a second year PhD student in Electrical and Computer Engineering at University of California Santa Barbara, advised by [Prof. Yasamin Mostofi](https://web.ece.ucsb.edu/~ymostofi/). Currently, I research on crowd analytics using RF sensing. I obtained my Bachelor of Technology from the [National Institute of Technology, Warangal (NITW)](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
+
 
 If you wish to chat with me, just drop me a mail.
 
@@ -14,11 +15,9 @@ If you wish to chat with me, just drop me a mail.
 
 {% include_relative _includes/publications.md %}
 
-## About Me
+## Beyond My Academic Work
 
-- I have a deep regard for mathematics and it is my pass time activity to learn and solve problems in math.
-- I also have an acute sense of taste and smell owing to my interest in cooking.
-- In my free time, I play chess. I am always open to a good match on [Lichess](https://lichess.org/@/AadityaP)
+I have a deep appreciation for mathematics and often spend my free time solving problems just for fun. I also enjoy playing chess and am always open to a good match on Lichess. Cooking is another passion of mine, and while I experiment in the kitchen, I occasionally share my creations on Instagram. Additionally, I love collaborating and going beyond my defined role—whether it's spending extra hours as a TA to help students gain confidence or contributing wherever I can to support those around me.
 
 <!--
 You can use HTML elements in Markdown, such as the comment element, and they won't be affected by a markdown parser. However, if you create an HTML element in your markdown file, you cannot use markdown syntax within that element's contents.
