@@ -1,0 +1,17 @@
+main:
+  - title: Nocturnal Serizure Detection
+
+  - title: Video to RF
+
+  - title: Velocity estimation with Spectrogram
+    
+
+  # - title: Performance Analysis of RIS-Aided NOMA Networks in α−μ & κ−μ Generalized Fading Channel
+  #   authors: <strong>Aaditya Prakash Kattekola</strong>; Sanjana Dontha; Anuradha Sundru
+  #   conference_short: ICETE
+  #   conference: Proceedings of the Second International Conference on Emerging Trends in Engineering (ICETE 2023).
+  #   pdf: https://arxiv.org/pdf/2305.07265.pdf
+  #   #code: https://github.com/MrGiovanni/ContinualLearning
+  #   bibtex: https://www.atlantis-press.com/proceedings/icete-23/125994205
+  #   image: ./assets/img/publication/RIS.png
+  #   # notes: Oral Presentation
