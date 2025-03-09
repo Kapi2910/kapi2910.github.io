@@ -2,12 +2,9 @@ main:
 
   - title: "Projects"
     url: /projects/
-
+    
   - title: "CV"
-    url: {{ site.cv_link}}
-
-  - title: "CV 2"
-    url: /cv/
+    url: /assets/files/curriculum_vitae.pdf
 
   - title: "Publications"
     url: /publications/
