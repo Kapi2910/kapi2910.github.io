@@ -6,7 +6,7 @@ main:
     pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10622398
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://ieeexplore.ieee.org/abstract/document/10622398
-    image: ./assets/img/publication/UTM.png
+    image: ../assets/img/publication/UTM.png
     # notes: Oral Presentation 
 
   - title: Performance Analysis of RIS-Aided NOMA Networks in α−μ & κ−μ Generalized Fading Channel
@@ -16,5 +16,5 @@ main:
     pdf: https://arxiv.org/pdf/2305.07265.pdf
     #code: https://github.com/MrGiovanni/ContinualLearning
     bibtex: https://www.atlantis-press.com/proceedings/icete-23/125994205
-    image: ./assets/img/publication/RIS.png
+    image: ../assets/img/publication/RIS.png
     # notes: Oral Presentation

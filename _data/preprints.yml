@@ -5,4 +5,4 @@ main:
     conference: ArXiv Preprint
     pdf: https://arxiv.org/pdf/2410.09200
     #code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/publication/Crowd.png
+    image: ../assets/img/publication/Crowd.png
