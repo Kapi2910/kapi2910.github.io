@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
-    <title>{{ site.title }} | {{site.affiliation}}</title>
+    <title>{{ page.title }} | {{ site.title }} | {{ site.affiliation }}</title>
 
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -11,7 +11,7 @@
     <meta name="keywords" content="{{ site.keywords }}">
     {% endif %}
     {% if site.canonical %}
-    <link rel="canonical" href="{{ site.canonical }}"/>
+    <link rel="canonical" href="{{ site.canonical }}{{ page.permalink }}"/>
     {% endif %}
 
     <link rel="icon" media="(prefers-color-scheme:dark)" href="{{ site.favicon_dark }}" type="image/png" />
@@ -52,7 +52,7 @@
       
     </div>
 
-    <script src="./assets/js/vanilla-back-to-top.min.js"></script>
+    <script src="../assets/js/vanilla-back-to-top.min.js"></script>
     <script>addBackToTop({
         backgroundColor: '#fff',
         innerHTML: 'Back to Top',
