@@ -1,13 +1,4 @@
 main:
-  - title: Crowd Size Estimation for Non-Uniform Spatial Distributions with mmWave Radar
-    authors: Anurag Pallaprolu, <strong>Aaditya Prakash Kattekola</strong>, Winston Hurst, Upamanyu Madhow, Ashutosh Sabharwal and Yasamin Mostof
-    conference_short: ArXiv
-    conference: IEEE International Conference on Communications (ICC)
-    pdf: https://arxiv.org/pdf/2410.09200
-    #code: https://github.com/MrGiovanni/ContinualLearning
-    image: ./assets/img/publication/Crowd.png
-    notes: Submitted
-
   - title: A Traffic Control Framework for Uncrewed Aircraft Systems
     authors: Ananay Vikram Gupta, <strong>Aaditya Prakash Kattekola</strong>, Ansh Vikram Gupta, Dacharla Venkata Abhiram, Kamesh Namuduri, Ravichandran Subramanian
     conference_short: ICC
