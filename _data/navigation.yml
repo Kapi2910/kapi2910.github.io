@@ -4,7 +4,10 @@ main:
     url: /projects/
 
   - title: "CV"
-    url: /assets/file/curriculum_vitae.pdf
+    url: {{ site.cv_link}}
+
+  - title: "CV 2"
+    url: /cv/
 
   - title: "Publications"
     url: /publications/
