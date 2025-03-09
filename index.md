@@ -10,13 +10,9 @@ I am a second year PhD student in Electrical and Computer Engineering at Univers
 
 ## Publications
 
-### Preprints
-
 {% include_relative _includes/preprints.md %}
 
-### Conference
-
-{% include_relative _includes/publications.md %}
+{% include_relative _includes/conf_papers.md %}
 
 
 ## Beyond My Academic Work
