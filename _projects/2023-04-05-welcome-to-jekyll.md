@@ -1,5 +1,5 @@
 ---
-layout: poroject
+layout: project
 title:  "Welcome to Jekyll!"
 date:   2023-04-05 00:25:38 +0530
 categories: jekyll update
