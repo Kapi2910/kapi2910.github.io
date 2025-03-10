@@ -7,7 +7,7 @@ permalink: /
 ---
 ## Namaste
 
-I am a second year PhD student in Electrical and Computer Engineering at University of California Santa Barbara, advised by [Prof. Yasamin Mostofi](https://web.ece.ucsb.edu/~ymostofi/). My research interests lie at the cusp of robotics, communication and sensing. Currently, I am researching on crowd analytics using RF sensing. Prior to my PhD, I graduated with a Bachelors degree from [NIT, Warangal](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering. 
+I am a second year PhD student in Electrical and Computer Engineering at University of California Santa Barbara, advised by [Prof. Yasamin Mostofi](https://web.ece.ucsb.edu/~ymostofi/). My research interests lie in the intersection of robotics, communication and sensing. Currently, I am researching on crowd analytics using RF sensing. Prior to my PhD, I graduated with a Bachelors degree from [NIT, Warangal](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering. 
 
 Highlights of my research can be found in my [Publications page](./publications/). In my [Projects page](./projects/), you can find things that kept me busy outside of my PhD.
 
