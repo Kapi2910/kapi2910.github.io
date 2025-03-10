@@ -1,7 +1,7 @@
 ---
 layout: project
 title:  "Welcome to Jekyll!"
-page: /projects/welcome
+permalink: /projects/welcome
 enable_last_update: True
 authors: Aaditya Prakash Kattekola
 ---
