@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 title: Aaditya Prakash Kattekola
 layout: homepage
+permalink: /
 ---
 ## Namaste 🙏🏽
 
