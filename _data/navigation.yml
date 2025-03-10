@@ -2,6 +2,7 @@ main:
 
   - title: "Projects"
     url: /projects/
+    right: true
     
   - title: "CV"
     url: /assets/files/curriculum_vitae.pdf
