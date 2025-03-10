@@ -8,15 +8,6 @@ layout: homepage
 
 I am a second year PhD student in Electrical and Computer Engineering at University of California Santa Barbara, advised by [Prof. Yasamin Mostofi](https://web.ece.ucsb.edu/~ymostofi/). Currently, I research on crowd analytics using RF sensing. Additionally, I love collaborating and going beyond my defined role — whether it's spending extra hours as a TA to help students gain confidence or contributing wherever I can to support those around me. Prior to my PhD, I graudted with a Bachelors degree from the [NIT, Warangal](https://www.nitw.ac.in) in the Department of Electronics & Communication Engineering.
 
-## Projects
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
-
 ## Publications
 
 {% include_relative _includes/preprints.md %}

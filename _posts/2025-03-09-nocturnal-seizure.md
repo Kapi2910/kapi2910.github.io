@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: post
 title:  "Nocturnal Seizure"
 author: Aaditya Prakash Kattekola
 date: "2025-03-09 21:02:52"
