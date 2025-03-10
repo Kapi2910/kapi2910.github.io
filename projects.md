@@ -27,7 +27,7 @@ permalink: /projects/
       {% if post.code %} 
       <a href="{{ post.code }}" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
       {% endif %}
-      <!-- {{ post.excerpt }} -->
+      {{ post.description }}
       {% if post.notes %} 
       <strong> <i style="color:#e74d3c">{{ post.notes }}</i></strong>
       {% endif %}
