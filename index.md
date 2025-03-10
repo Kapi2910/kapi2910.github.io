@@ -10,9 +10,9 @@ I am a second year PhD student in Electrical and Computer Engineering at Univers
 
 ## Projects
 <ul>
-  {% for proj in site.projects %}
+  {% for post in site.posts %}
     <li>
-      <a href="{{ proj.url }}">{{ proj.title }}</a>
+      <a href="{{ post.url }}">{{ post.title }}</a>
     </li>
   {% endfor %}
 </ul>
