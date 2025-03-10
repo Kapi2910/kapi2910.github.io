@@ -32,7 +32,6 @@ permalink: /projects/
       <strong> <i style="color:#e74d3c">{{ post.notes }}</i></strong>
       {% endif %}
     </div>
-  </div>
 </div>
 </li>
 
