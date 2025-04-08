@@ -1,13 +1,5 @@
-.wrapper .large {
-  width: 60% !important;
-  height: auto;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-
 .wrapper img {
-  width: 100%;
+  width: auto;
   height: auto;
   display: block;
   margin-left: auto;
