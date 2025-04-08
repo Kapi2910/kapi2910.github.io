@@ -18,10 +18,13 @@ For the WiFi CSI experiment, two laptops equipped with IWL5300 were used. 1 omni
 The mmWave measeurements were conducted using a Texas Instruments (TI) mmWave radar board, namely AWR2243boost. This board swept a frequency range of 76-81 GHz with a chirp time of 67µs. The measured data 5D which made the data size quite larger than Wifi measurements. These are the 5 dimensions:
 
  `(Frame Index, Chirp Index, Tx Index, Rx Index, ADC Index)`
- 
+
 For processing this data I referred to the notes provided by TI[^1]. The advantage with a FMCW radar is that we get the range and velocity together at once. This enables one to create a 2D spectrum that shows the range and velocity at once. Since this 2D spectrum is produced for each time frame, I created video of the object's motion.
 
 <video controls src="https://github.com/Kapi2910/kapi2910.github.io/raw/refs/heads/master/assets/img/spectrogram/RangeDoppler_APK.mp4" title="mmWave Spectrogram"></video>
 
+
+---
+### References
 [^1]: Sandeep Rao. Introduction to mmwave sensing: Fmcw radars. Texas Instruments (TI) mmWave Training Series, pages 1–11, 2017.
 [^2]: Wei Wang, Alex X. Liu, and Muhammad Shahzad. Gait recognition using wifi signals. In Proceedings of the 2016 ACM International Joint Conference on Pervasive and Ubiquitous Computing, pages 363–373, Heidelberg Germany, September 2016. ACM.
