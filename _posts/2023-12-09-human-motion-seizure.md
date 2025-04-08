@@ -6,7 +6,7 @@ date: "2023-12-09 21:02:52"
 ---
 RF waves scattered off the human body can reveal a lot about motion—a concept that forms the basis of wireless human sensing. Through this project, I explored how motion sensing works with both WiFi and mmWave, and gained hands-on experience comparing their capabilities.
 
-<img src="https://github.com/Kapi2910/kapi2910.github.io/blob/master/assets/img/spectrogram/exp_setup.JPG?raw=true"/>
+<!-- <img src="https://github.com/Kapi2910/kapi2910.github.io/blob/master/assets/img/spectrogram/exp_setup.JPG?raw=true"/> -->
 
 ## WiFi Sensing
 For the WiFi CSI experiment, two laptops equipped with IWL5300 were used. 1 omnidirectional antenna was set as the transmitter with transmits WiFi packets on channel 64 with 5.32GHz carrier frequency. There are 3 receiving antennas connected to the laptop (WiFi Rx in Fig. 5). The receiver records CSI on 30 subcarriers. Overall, the data had 90 streams which was denoised using Principal Component Analysis[^2]. The first 10 principal componenets contained majority of the information, as shown in Fig 4. Hence, these were used to generate 10 spectrograms, using time windows of $T_win = 0.4s$ , $T_s = 4ms$. They were then averaged to obtain the final spectrogram.
