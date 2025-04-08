@@ -6,6 +6,15 @@ img {
   margin-right: auto;
 }
 
+img .large{
+  width: 60%;
+  height: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
 video {
   width: 100%;
   height: auto;
