@@ -28,6 +28,7 @@ For processing this data I referred to the notes provided by TI[^1]. The advanta
 
 ## Comparison between Wifi & mmWave Radar 
 From these experiments, I have tried to create a comparison table between WiFi and mmWave radar. 
+
 | Parameter             | WiFi           | mmWave Radar    |
 | --------------------- | -------------- | --------------- |
 | Operating Frequencies | 2.4 GHz, 5 GHz | 60 GHz & 77 GHz |
