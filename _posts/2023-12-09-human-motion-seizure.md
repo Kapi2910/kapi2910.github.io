@@ -3,7 +3,7 @@ layout: project
 title:  "Wireless Human Sensing using WiFi and mmWave"
 description:
 date: "2023-12-09 21:02:52"
-image: assets/img/avatar.jpg
+image: assets/img/wip.png
 ---
 RF waves scattered off the human body can reveal a lot about motion—a concept that forms the basis of wireless human sensing. Through this project, I explored how motion sensing works with both WiFi and mmWave, and gained hands-on experience comparing their capabilities. 
 
