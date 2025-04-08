@@ -6,6 +6,11 @@
   margin-right: auto;
 }
 
+.wrapper p { 
+  float: none; 
+  width: 100%;
+}
+
 .wrapper video {
   width: 100%;
   height: auto;
