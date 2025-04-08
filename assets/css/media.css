@@ -1,4 +1,4 @@
-img {
+.wrapper img {
   width: 100%;
   height: auto;
   display: block;
@@ -6,7 +6,7 @@ img {
   margin-right: auto;
 }
 
-img .large {
+.wrapper img .large {
   width: 60%;
   height: auto;
   display: block;
@@ -15,7 +15,7 @@ img .large {
 }
 
 
-video {
+.wrapper video {
   width: 100%;
   height: auto;
   display: block;
